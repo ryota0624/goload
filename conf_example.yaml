@@ -1,0 +1,8 @@
+target: http://localhost:8080
+duration: 3
+rate: 100
+scenario:
+  - method: get
+    path: /
+  - method: get
+    path: /
