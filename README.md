@@ -1,0 +1,3 @@
+# goload
+
+golang ロードテストツール
